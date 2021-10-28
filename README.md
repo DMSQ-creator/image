@@ -1,2 +1,2 @@
 # image
-图床
+图床[jsdelivr github wordpress]
